@@ -1,0 +1,23 @@
+main{
+    width: 75%;
+    margin: auto;
+    border: 1px solid red;
+}
+header{
+    height: 50px;
+    background-color: azure;
+}
+h3{
+    text-align: center;
+}
+hr{
+    width: 50%;
+    margin: auto;
+    border: 1px dotted blue;
+}
+section{
+    height: 1100px;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+}
